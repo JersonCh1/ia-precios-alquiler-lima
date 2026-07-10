@@ -20,7 +20,8 @@ Curso: Inteligencia Artificial · Dr. Vicente Machaca Arceda · ULaSalle
 | ⑥ Cierre | Integrante 1 (o quien prefiera) | … |
 | Preguntas del profe | Todos, según el tema | — |
 
-> **Todos con cámara activa** (lo exige la rúbrica, 3 pts de presentación).
+> Somos 5 y cada uno toma un bloque; el ⑥ (cierre, muy corto) lo hace quien ya
+> habló en el ①. La exposición es solo hablada.
 
 ---
 
@@ -108,7 +109,6 @@ Curso: Inteligencia Artificial · Dr. Vicente Machaca Arceda · ULaSalle
 
 ## ✅ CHECKLIST 30 SEG ANTES
 - [ ] App corriendo y respondiendo (clic de prueba + recarga hecho).
-- [ ] Todos con cámara activa.
 - [ ] Repo abierto en una pestaña.
 - [ ] Cada uno sabe su bloque.
 - [ ] Cronómetro / alguien controlando los 5 minutos.
