@@ -1,0 +1,3 @@
+Configuración,MAE,RMSE,R2,MAPE
+Random Forest (default),1153.0,2806.0,0.404,26.0
+Random Forest (tuned),1155.0,2835.0,0.391,27.0

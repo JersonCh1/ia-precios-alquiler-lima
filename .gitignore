@@ -1,0 +1,25 @@
+# Entorno Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Artefactos regenerables por el pipeline
+data/processed/
+models/*.joblib
+
+# NOTA: reports/figures y reports/tables SÍ se versionan para que el
+# README muestre los gráficos en GitHub sin tener que ejecutar el pipeline.
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Artefactos de herramientas
+.playwright-mcp/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+Configuración,MAE_test,RMSE_test,R2_test,MAPE_test
+Sin log + todas las features,1237.0,2843.0,0.388,30.0
+Con log + todas las features,1153.0,2806.0,0.404,26.3
+Con log + SIN distrito (ablación),1237.0,2667.0,0.461,29.3
+Con log + solo numéricas,1337.0,3056.0,0.293,32.6
